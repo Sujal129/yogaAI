@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Image from 'next/image';
-import foto from 'C:/Desktop/yoga Project/GuruJi/src/app/components/sitting.jpg';
+import foto from './sitting.jpg';
 import StateStore from '../states/StateStore'
 const YogaCard = ({ PoseName, PoseDescription,  PoseId }: any) => {
 
